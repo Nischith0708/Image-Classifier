@@ -1,0 +1,6 @@
+ 1. TENSORFLOW: 
+          >Provides convenient functions, such as datasets.cifar10.load_data(), to load common datasets like CIFAR-10
+          >Used to compile and evaluate the model
+ 2. AND KERAS A HIGH-LEVEL API OF TENSERFLOW:
+          >Used to build the CNN model architecture
+    
