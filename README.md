@@ -1,4 +1,4 @@
-**Project Report: CIFAR-10 Image Classification using Convolutional Neural Networks**
+#CIFAR-10 Image Classification using Convolutional Neural Networks**
 
 **1. Introduction:**
 The goal of this project is to develop a robust Convolutional Neural Network (CNN) model for image classification using the CIFAR-10 dataset. CIFAR-10 is a widely used benchmark dataset containing 60,000 color images in 10 classes, making it a challenging task for image recognition and classification.
